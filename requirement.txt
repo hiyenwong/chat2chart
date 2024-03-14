@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+langchain
+python-dotenv
+openai
+tabulate
+langchain_experimental
+langchain-community
+watchdog
+langchain_openai
+pyodbc
